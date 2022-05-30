@@ -5,6 +5,9 @@
   "repository": "https://github.com/tfinlay/gesture_timer_site.git",
   "license": "MIT",
   "scripts": {
-    "build": "echo done"
+    "build": "node ./build.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.14.42"
   }
 }
