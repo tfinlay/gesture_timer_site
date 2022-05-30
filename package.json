@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "gesture_timer_site",
+  "version": "1.0.0",
+  "repository": "https://github.com/tfinlay/gesture_timer_site.git",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo done"
+  }
+}
